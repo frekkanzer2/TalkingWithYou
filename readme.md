@@ -28,7 +28,7 @@
 
 🔍 Dai un'occhiata al file `docs/contributing.md`
 
-🙇🏻 Per favore rispetta la "buona condotta" leggendo il file `docs/code of conduct`.
+🙇🏻 Per favore rispetta la "buona condotta" leggendo il file `docs/code of conduct.md`.
 
 ## Tech Stack
 
