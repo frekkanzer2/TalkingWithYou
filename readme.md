@@ -14,13 +14,13 @@
 
 ## Origini
 
-Questo progetto nasce come regalo di Natale per la mia ragazza.
+🎅🏼 Questo progetto nasce come regalo di Natale per la mia ragazza.
 
-Da ragazzo appassionato per lo sviluppo software/web non potevo non farle un regalo del genere.
+🖥️ Da ragazzo appassionato per lo sviluppo software/web non potevo non farle un regalo del genere.
 
-Ho deciso di rendere il repository pubblico (precisamente dal 25 dicembre) così che chiunque possa trovare facilmente l'URL per giocare e possa eventualmente contribuire o crearsi una propria versione da "regalare" alla propria controparte o ad un amico stretto (rega lasciateci almeno i crediti).
+🎁 Ho deciso di rendere il repository pubblico (precisamente dal 25 dicembre) così che chiunque possa trovare facilmente l'URL per giocare e possa eventualmente contribuire o crearsi una propria versione da "regalare" alla propria controparte o ad un amico stretto (rega lasciateci almeno i crediti).
 
-Buon Natale Orn 💜
+💜 Buon Natale Orn
 
 ## Contribuire
 
