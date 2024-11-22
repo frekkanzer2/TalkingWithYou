@@ -57,6 +57,30 @@ body, html {
     cursor: pointer;
 }
 
+.footer {
+    position: fixed; /* Mantiene il footer sempre visibile in fondo alla finestra */
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7); /* Sfondo semi-trasparente */
+    color: white; /* Colore del testo */
+    text-align: center; /* Centra il testo */
+    padding: 10px 0; /* Spazio interno */
+    font-family: 'Parkinsans', sans-serif; /* Font coerente con il resto della pagina */
+    font-size: 0.9rem; /* Testo leggermente più piccolo */
+    z-index: 2; /* Assicura che il footer sia sopra lo sfondo */
+}
+
+.footer a {
+    color: white;
+    text-decoration: underline;
+}
+
+.footer a:hover {
+    color: #54a1b4;
+    text-decoration: underline;
+}
+
 @media (min-width: 2560px) {
     .title {
         font-size: 4rem; /* Imposta una dimensione grande per il titolo */
@@ -74,6 +98,9 @@ body, html {
         padding: 6px 86px;
         margin-top: 42px;
     }
+    .footer {
+        font-size: 1.3rem;
+    }
 }
 
 @media (min-width: 1025px) and (max-width: 2559px) {
@@ -86,6 +113,9 @@ body, html {
         border-radius: 10px;
         margin-left: 80px;
         margin-right: 80px;
+    }
+    .footer {
+        font-size: 1rem;
     }
 }
 
