@@ -1,0 +1,169 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    z-index: 1;
+}
+
+.background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('./media/background.jpg'); /* Modifica con il percorso della tua immagine */
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: -1;
+}
+
+.title {
+    font-family: 'Parkinsans', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 2.8rem; /* Imposta una dimensione grande per il titolo */
+    margin-bottom: 32px; /* Spazio tra il titolo e il testo */
+}
+
+.text {
+    font-family: 'Parkinsans', sans-serif;
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.button {
+    font-family: 'Parkinsans', sans-serif;
+    font-size: 2rem;
+    color: #054859;
+    background-color: #cfcfcf;
+    padding: 4px 56px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 36px;
+    cursor: pointer;
+}
+
+@media (min-width: 2560px) {
+    .title {
+        font-size: 4rem; /* Imposta una dimensione grande per il titolo */
+        margin-bottom: 42px; /* Spazio tra il titolo e il testo */
+    }
+    .text {
+        font-size: 2.8rem;
+        padding: 38px;
+        border-radius: 10px;
+        margin-left: 140px;
+        margin-right: 140px;
+    }
+    .button {
+        font-size:3.2rem;
+        padding: 6px 86px;
+        margin-top: 42px;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 2559px) {
+    .title {
+        font-size: 3.2rem; /* Imposta una dimensione grande per il titolo */
+    }
+    .text {
+        font-size: 2rem;
+        padding: 20px;
+        border-radius: 10px;
+        margin-left: 80px;
+        margin-right: 80px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .text {
+        font-size: 1.7rem;
+        padding: 18px;
+        border-radius: 14px;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    .button {
+        padding: 4px 40px;
+    }
+}
+
+@media (max-width: 768px) {
+    .title {
+        font-size: 2.6rem; /* Imposta una dimensione grande per il titolo */
+    }
+    .text {
+        font-size: 1.5rem;
+        padding: 18px;
+        border-radius: 16px;
+        margin-left: 60px;
+        margin-right: 60px;
+    }
+    .button {
+        padding: 4px 38px;
+        margin-top: 40px;
+    }
+}
+
+@media (max-width: 425px) {
+    .title {
+        font-size: 2rem;
+    }
+    .text {
+        font-size: 1.2rem;
+        padding: 16px;
+        border-radius: 16px;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .button {
+        font-size: 1.6rem;
+        padding: 2px 38px;
+        margin-top: 36px;
+    }
+}
+
+@media (max-width: 375px) {
+    .title {
+        font-size: 2rem; /* Imposta una dimensione grande per il titolo */
+    }
+    .text {
+        font-size: 1.2rem;
+        padding: 12px;
+        border-radius: 16px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+@media (max-width: 320px) {
+    .title {
+        font-size: 1.8rem; /* Imposta una dimensione grande per il titolo */
+    }
+    .text {
+        font-size: 1rem;
+        padding: 8px;
+        border-radius: 16px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .button {
+        font-size: 1.4rem;
+        padding: 2px 34px;
+        margin-top: 28px;
+    }
+}
