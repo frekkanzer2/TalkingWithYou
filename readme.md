@@ -10,7 +10,7 @@
 
 ✨ Bene, iniziamo!
 
-#### [💘 Gioca ora](https://github.com/matiassingers/awesome-readme)
+#### [💘 Gioca ora](https://talking-with-you.web.app/)
 
 ## Origini
 
