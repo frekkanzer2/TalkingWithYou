@@ -19,17 +19,12 @@ All types of contributions are encouraged and valued. 🎉
   - [I Want To Contribute](#i-want-to-contribute)
   - [Reporting Bugs](#reporting-bugs)
   - [Suggesting Enhancements](#suggesting-enhancements)
-  - [Your First Code Contribution](#your-first-code-contribution)
-  - [Improving The Documentation](#improving-the-documentation)
-- [Styleguides](#styleguides)
-  - [Commit Messages](#commit-messages)
-- [Join The Project Team](#join-the-project-team)
-
+  - [Your Code Contribution](#your-code-contribution)
 
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the
-[Talking With Me Code of Conduct](https://github.com/frekkanzer2/TalkingWithYou/blob/main/docs/code of conduct.md).
+[Talking With Me Code of Conduct](https://github.com/frekkanzer2/TalkingWithYou-ITA/blob/main/docs/code%20of%20conduct.md).
 By participating, you are expected to uphold this code.
 
 
