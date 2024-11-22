@@ -1,4 +1,4 @@
-# Talking with me ❤️
+# Talking with you ❤️
 
 💞 Giocalo con una persona per te importante
 
