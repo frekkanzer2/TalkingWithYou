@@ -32,7 +32,6 @@ Se ti trovassi su un'isola sperduta completamente da solo, con quale oggetto ina
 Cosa faresti se interrompessimo i rapporti?
 Cosa rende il tuo cuore pieno di gioia?
 Come prendi coraggio per dire qualcosa di scomodo a qualcuno?
-Come spenderesti/hai speso il tuo primo stipendio?
 Quale avventura vorresti vivere insieme a me, anche se è un po' folle?
 Se dovessimo aprire un’attività insieme, cosa sarebbe e quale ruolo avresti?
 Qual è un ricordo d’infanzia che non hai mai raccontato a nessunə?
@@ -70,6 +69,7 @@ Se dovessi scegliere un solo piatto da mangiare per sempre, quale sarebbe?
 Qual è il gesto più romantico che tu abbia mai fatto per qualcuno?
 Come reagisci quando sei molto arrabbiatə?
 Qual è il tratto della tua personalità di cui vai più fierə?
+Qual è il tuo tratto fisico di cui vai più fierə?
 Se potessi imparare una nuova lingua all’istante, quale sceglieresti?
 C’è qualcosa che ammiri particolarmente in me?
 Qual è stato il tuo momento più imbarazzante in pubblico?
@@ -137,7 +137,7 @@ Quali sono le qualità che mi distinguono dagli altri?
 Le persone ti sottovalutano o ti sopravvalutano?
 Se ti dicessero che domani morirai, quale sarebbe il tuo più grande rimpianto?
 Quando un fallimento è considerabile un successo? Ti è mai capitato?
-C'è qualcosa che è successo durante questa settimana di cui saresti grata?
+C'è qualcosa che è successo durante questa settimana di cui saresti gratə?
 Cosa ti piace maggiormente di te stessə?
 Come vorresti essere da vecchio?
 Qual è il complimento più bello che tu abbia mai ricevuto?
@@ -154,3 +154,40 @@ Quali tre ingredienti / cibi si trovano sempre nella tua cucina?
 Se dovessi dedicare un'intera giornata a te stessə, come la trascorreresti?
 Preferisci gli sport in team o gli sport individuali?
 Come mi descrivi agli altri?
+C'è qualcosa che ti ha colpito di me quando ci siamo conosciutə?
+Se dovessi comprarmi dei biglietti per un concerto, quale sarebbe?
+Qual è il luogo, al di fuori della tua abitazione, che consideri il più confortevole?
+Esiste un obiettivo in termini di amicizia/coppia che desidereresti raggiungere nel corso di quest'anno?
+C'è un aspetto della mia persona o una situazione che ti piacerebbe approfondire o comprendere meglio?
+Qual è il tuo gioco in termini di amicizia/coppia preferito e per quale motivo lo consideri tale?
+Qual è l'azione più coraggiosa che tu abbia mai compiuto?
+Qual è l’episodio più spontaneo che abbiamo vissuto insieme come amici/coppia?
+Ritieni che la relazione tra i tuoi genitori abbia influenzato la tua visione delle relazioni di coppia?
+Hai cambiato idea su qualche argomento di recente?
+Come hai conosciuto i tuoi migliori amici?
+Ti è capitato di attraversare un periodo difficile in cui hai sentito il bisogno di chiedere aiuto?
+Se il tempo si fermasse per tutti tranne che per noi due, per un solo giorno, cosa sceglieresti di fare insieme a me?
+Durante il periodo scolastico, nella tua classe c’era qualcunə che si comportava come uno spacciatore, gestendo il tutto come se fosse un mercato nero?
+Hai una persona a cui ti ispiri particolarmente? Se sì, cosa ti spinge a considerarla una fonte di ispirazione?
+Come hai guadagnato il tuo primo stipendio e in che modo hai deciso di spenderlo?
+Se dovessi cercare di fare colpo su di me, quale slogan utilizzeresti?
+Qual è un argomento o una questione che ritieni controversa ma che, secondo te, non dovrebbe esserlo?
+Se fossi un influencer, che tipo di contenuti promuoveresti e perché?
+Da bambinə avevi qualche hobby particolare o insolito?
+In caso di un’apocalisse zombie, quale sarebbe la prima cosa che faresti?
+Elenca tre aspetti di te stessə che, secondo te, dovresti imparare ad apprezzare di più.
+Se non mi conoscessi, quale sport pensi, a primo impatto, possa praticare come professionista?
+Ti è mai capitato di incontrare una celebrità da vicino? Hai mai avuto occasione di scambiarci due parole?
+Tra 15 anni quale aspetto della tua vita presente pensi che ti mancherebbe di più e ti creerebbe nostalgia?
+Quale piccola cosa, semplice ma significativa, ti renderebbe felice ogni giorno?
+Raccontami del peggior appuntamento che tu abbia mai avuto.
+Qual è stata la prima cosa che hai detto ai tuoi familiari o amici a proposito di me?
+Se dovessi scrivere un libro che parli della nostra amicizia/relazione, quale titolo gli daresti?
+Raccontami il ricordo più bello che hai di quando eri piccolə.
+Se ricevessi 10.000 euro da spendere in 24 ore, come li utilizzeresti?
+C’è un argomento su cui potresti parlare per ore senza mai annoiarti? Quale?
+Raccontami della tua ultima ossessione.
+Qual era il tuo videogioco preferito da bambinə?
+Chi è una persona, diversa da me e dai membri della tua famiglia, che ha avuto un impatto positivo nella tua vita?
+I tuoi valori sono cambiati con il tempo? In che modo?
+Qual è la tua opinione riguardo alle persone che cambiano idea o rivedono i propri valori nel corso della vita?
